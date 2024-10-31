@@ -8,7 +8,7 @@
     "start": "json-server --static . --watch data.json"
   },
   "dependencies": {
-    "json-server": "0.16.3"
+    "json-server": "0.17.4"
   },
   "devDependencies": {
     "prettier": "2.2.1",
